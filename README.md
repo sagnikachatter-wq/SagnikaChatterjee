@@ -53,51 +53,35 @@ Jupyter Notebook, Google Colab
 🎶 Indian Music Classification using CNN
 
 (Major Academic Project)
-
 Developed CNN-based models for Indian music classification
-
 Extracted MFCC & Log-Mel spectrogram features using LibROSA
-
 Implemented and compared:
-
 Basic CNN
-
 Improved CNN
-
 CNN-BiLSTM
-
 SE-CNN
-
 Evaluated performance using accuracy and prediction distribution
 
-🔗 Repository link here
+
 
 🎧 Audio Data Augmentation & Analysis
 
 Implemented noise addition and time-stretching techniques
-
 Studied their effect on model generalization
-
 LibROSA-safe augmentation methods
 
-🔗 Repository link here
 
 📊 Data Analysis Projects
 
 Data cleaning, visualization, and interpretation
-
 Real-world datasets with business & analytical insights
 
-🔗 Repository link here
 
 📘 Academic & Research Orientation
 
 Strong understanding of signal processing concepts
-
 Experience preparing viva-style explanations for ML projects
-
 Comfortable with examiner-level theoretical questions
-
 Interested in research + industry-oriented ML applications
 
 🎯 Internship Objective
